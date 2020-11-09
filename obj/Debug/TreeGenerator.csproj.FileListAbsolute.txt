@@ -1,0 +1,10 @@
+C:\GitOther\TreeGenerator\bin\Debug\TreeGenerator.exe.config
+C:\GitOther\TreeGenerator\bin\Debug\TreeGenerator.exe
+C:\GitOther\TreeGenerator\bin\Debug\TreeGenerator.pdb
+C:\GitOther\TreeGenerator\obj\Debug\TreeGenerator.csprojAssemblyReference.cache
+C:\GitOther\TreeGenerator\obj\Debug\TreeGenerator.Form1.resources
+C:\GitOther\TreeGenerator\obj\Debug\TreeGenerator.Properties.Resources.resources
+C:\GitOther\TreeGenerator\obj\Debug\TreeGenerator.csproj.GenerateResource.cache
+C:\GitOther\TreeGenerator\obj\Debug\TreeGenerator.csproj.CoreCompileInputs.cache
+C:\GitOther\TreeGenerator\obj\Debug\TreeGenerator.exe
+C:\GitOther\TreeGenerator\obj\Debug\TreeGenerator.pdb
